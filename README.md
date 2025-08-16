@@ -162,15 +162,15 @@ make app_name=cart  [repace cart to frontend, catalogue , etc]
 
 ```mermaid
     flowchart TD
-    A[Azure CLI Login ☁️] --> B[Create Dynamic Public IP 🌐]
-    B --> C[Provision VM 🖥️]
-    C --> D[Install Python & Ansible 🐍⚙️]
-    D --> E[Define Inventory 📋]
-    E --> F[Run Playbooks ▶️]
-    F --> G[Configure Services (Mongo, Cart, etc.) 🛠️]
-    G --> H[Apply Systemd & Nginx Templates 📦]
-    H --> I[Manage Secrets via Ansible Vault 🔐]
-    I --> J[Roboshop Microservices Running 🚀]
+    A["Azure CLI Login ☁️"] --> B["Create Dynamic Public IP 🌐"]
+    B --> C["Provision VM 🖥️"]
+    C --> D["Install Python & Ansible 🐍⚙️"]
+    D --> E["Define Inventory 📋"]
+    E --> F["Run Playbooks ▶️"]
+    F --> G["Configure Services: Mongo, Cart, etc. 🛠️"]
+    G --> H["Apply Systemd & Nginx Templates 📦"]
+    H --> I["Manage Secrets via Ansible Vault 🔐"]
+    I --> J["Roboshop Microservices Running 🚀"]
 ```
 ## 🤝 Credits & Connect 💬❤️
 
