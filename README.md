@@ -172,9 +172,10 @@ make app_name=cart  [repace cart to frontend, catalogue , etc]
     H --> I["Manage Secrets via Ansible Vault 🔐"]
     I --> J["Roboshop Microservices Running 🚀"]
 ```
+---
 ## 🤝 Credits & Connect 💬❤️
 
-Inspired by cloud-native DevOps workflows and automation best practices.  
-Created with dedication by [nischitha A](https://github.com/nischiashok) 👩‍💻✨
+### Inspired by cloud-native DevOps workflows and automation best practices.  
+### Created with dedication by [nischitha A](https://github.com/nischiashok) 👩‍💻✨
 ---
 
