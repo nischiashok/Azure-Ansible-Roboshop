@@ -161,7 +161,6 @@ make app_name=cart  [repace cart to frontend, catalogue , etc]
 ## 🗂️ Visual Flowchart 🌐
 
 ```mermaid
-flowchart TD
     A[Azure CLI Login ☁️] --> B[Create Dynamic Public IP 🌐]
     B --> C[Provision VM 🖥️]
     C --> D[Install Python & Ansible 🐍⚙️]
