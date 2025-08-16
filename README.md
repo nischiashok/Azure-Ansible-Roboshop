@@ -9,13 +9,11 @@ Automated provisioning and configuration of **Roboshop microservices** using **A
 - [🧭 Quickstart](#-quickstart)
 - [🔧 Commands](#-commands)
 - [📜 Ansible Concepts](#-ansible-concepts)
-- [🖼️ Screenshots / Images](#-screenshots--images)
-- [🧪 Testing & Linting](#-testing--linting)
 - [🛡️ Security Notes](#-security-notes)
 - [🧰 Troubleshooting & FAQ](#-troubleshooting--faq)
-- [📚 Study & Certification Notes](#-study--certification-notes)
-- [📋 Contributing](#-contributing)
-- [📄 License](#-license)
+- [📚 Study  Notes](#-study--notes)
+
+
 </details>
 
 ---
