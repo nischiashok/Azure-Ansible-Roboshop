@@ -3,7 +3,7 @@
     name: common
     tasks_from: nodejs
 
-- name: Run systemd_setup
+- name: Run systemctl_setup
   ansible.builtin.include_role:
     name: common
-    tasks_from: systemd_setup
+    tasks_from: systemctl_setup
