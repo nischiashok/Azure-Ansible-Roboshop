@@ -18,7 +18,7 @@
   ansible.builtin.shell: mysql -h mysql-jaiganesha.shop -uroot -pRoboShop@1 < /app/db/master-data.sql
 
 
-- name: Run systemd_setup
+- name: Run systemctl_setup
   ansible.builtin.include_role:
     name: common
-    tasks_from: systemd_setup
+    tasks_from: systemctl_setup
